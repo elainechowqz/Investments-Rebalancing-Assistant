@@ -1,0 +1,5 @@
+Many of us invest in various categories of investments, like stocks, bonds, big cap, small cap, international stocks, precious metal, real estate and ESG, etc, according to certain proportions. As the prices of our investments fluctuate, we need to relabance periodically. 
+
+This short Python program allows us to compute how much to rebalance(buy or sell) for each investment category at a given time. To assist our investment decisions, this program also plots key information like MERs, volatilities and percentage changes for various ETFs/stocks in each investment category. This program is especially useful for individual investors in Canada, as it takes care of investments in both Canadian and US dollars. 
+
+Since Python is an object oriented programming language, a class named investment_category with various methods is created, and each investment category is an instance of this class. Since there are usually inclusion relations between some investment classes, we plan to implement other related features like tree structures and classes with inheritence, etc in the future. 
